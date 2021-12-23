@@ -24,8 +24,7 @@
 
 ### Connect with me:
 
-![GitHub-Mark-Light](https://raw.githubusercontent.com/polypheny/Admin/master/Logo/logo-transparent.png#gh-light-mode-only)![GitHub-Mark-Dark](https://raw.githubusercontent.com/polypheny/Admin/master/Logo/logo-white-text.png#gh-dark-mode-only)
-[<img align="left" alt="runnx.com" width="22px" src="https://raw.githubusercontent.com/RunnX/runnx/blob/main/img/logo.png#gh-dark-mode-only" /><img align="left" alt="runnx.com" width="22px" src="https://raw.githubusercontent.com/RunnX/runnx/blob/main/img/logodark.png#gh-light-mode-only" />][website]
+[<img align="left" alt="runnx.com" width="22px" src="https://raw.githubusercontent.com/RunnX/runnx/main/img/logo.png#gh-dark-mode-only" /><img align="left" alt="runnx.com" width="22px" src="https://raw.githubusercontent.com/RunnX/runnx/main/img/logodark.png#gh-light-mode-only" />][website]
 [<img align="left" alt="RunnX | YouTube" width="22px" src="icons/youtube.svg#gh-light-mode-only" style="filter: invert(1)" />][youtube]
 [<img align="left" alt="RunnX | YouTube" width="22px" src="icons/youtube.svg#gh-dark-mode-only"/>][youtube]
 [<img align="left" alt="RunnX | Twitter" width="22px" src="icons/twitter.svg#gh-light-mode-only" />][twitter]
