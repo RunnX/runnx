@@ -1,24 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900|Roboto+Mono:100,400|Caveat" />
-<header id="headerDiv" style="background-image: url(https://raw.githubusercontent.com/RunnX/runnx/main/img/headers/MichaelRBlevins2.webp);align-self: flex-start; background-position: 50% 32%; height: auto !important; display: table;
-    text-align: center; width: 100%; color: #fff;
-    text-shadow: 0 1px 3px rgb(0 0 0 / 20%);
-    overflow: hidden; position: relative;
-    background-repeat: no-repeat; background-size: cover; opacity: .8;">
-    <div style="background: rgba(7, 9, 21, 0.5); width: 100%; height: 100%; display: table-cell;
-    vertical-align: middle;
-    padding: 150px 0 50px;
-    width: 100%;
-    position: relative;
-    z-index: 1;">
-        <div style="font-family: 'Caveat'; font-weight: normal !important; text-transform: capitalize; letter-spacing: 0; margin: 0 0 15px; transform: rotate(-3deg) !important; -moz-transform: rotate(-3deg) !important; -webkit-transform: rotate(-3deg) !important; text-align: center;">
-            <h3>Hello, my name is</h3>
-            <h2 style="font-size: 50px; line-height: 50px; font-weight: normal;">Michael R Blevins</h2>
-            <h3>the <span style="color: #c60c30;">redhead</span> known as <span style="color: #57cae9;">RunnX</span></h3>
-        </div>
-    </div>
-    <br />
-</header>
+
+![header](https://raw.githubusercontent.com/RunnX/runnx/main/img/headers/githubheader.svg)
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCBa5BnIBBO12iopcb3A_rmA?logo=youtube&style=for-the-badge)
 [![Twitter Follow](https://img.shields.io/twitter/follow/runnx?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frunnx&screen_name=runnx)
