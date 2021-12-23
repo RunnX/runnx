@@ -25,7 +25,8 @@
 ### Connect with me:
 
 <a href="https://runnx.com/#gh-light-mode-only">![GitHub-Mark-Light](https://raw.githubusercontent.com/RunnX/runnx/main/img/logodark.png#gh-light-mode-only)</a><a href="https://runnx.com/#gh-dark-mode-only">![GitHub-Mark-Dark](https://raw.githubusercontent.com/RunnX/runnx/main/img/logo.png#gh-dark-mode-only)</a>
-[<img align="left" alt="runnx.com" width="22px" src="https://raw.githubusercontent.com/RunnX/runnx/main/img/logo.png#gh-dark-mode-only" /><img align="left" alt="runnx.com" width="22px" src="https://raw.githubusercontent.com/RunnX/runnx/main/img/logodark.png#gh-light-mode-only" />][website]
+[<img align="left" alt="runnx.com" width="22px" src="https://raw.githubusercontent.com/RunnX/runnx/main/img/logo.png#gh-dark-mode-only" />][website-dark]
+[<img align="left" alt="runnx.com" width="22px" src="https://raw.githubusercontent.com/RunnX/runnx/main/img/logodark.png#gh-light-mode-only" />][website-light]
 [<img align="left" alt="RunnX | YouTube" width="22px" src="icons/youtube.svg#gh-light-mode-only" style="filter: invert(1)" />][youtube]
 [<img align="left" alt="RunnX | YouTube" width="22px" src="icons/youtube.svg#gh-dark-mode-only"/>][youtube]
 [<img align="left" alt="RunnX | Twitter" width="22px" src="icons/twitter.svg#gh-light-mode-only" />][twitter]
@@ -36,7 +37,8 @@
 <br />
 
 
-[website]: https://runnx.com
+[website-dark]: https://runnx.com#gh-dark-mode-only
+[website-light]: https://runnx.com#gh-light-mode-only
 [youtube]: https://youtube.com/runnx
 [twitter]: https://twitter.com/runnx
 [linkedin]: https://linkedin.com/in/runnx
