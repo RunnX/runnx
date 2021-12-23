@@ -1,5 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900|Roboto+Mono:100,400|Caveat" />
-<header id="headerDiv" style="background-image: url(https://runnx.com/img/header/MichaelRBlevins2.webp);align-self: flex-start; background-position: 50% 32%; height: auto !important; display: table;
+<header id="headerDiv" style="background-image: url(https://raw.githubusercontent.com/RunnX/runnx/main/img/headers/MichaelRBlevins2.webp);align-self: flex-start; background-position: 50% 32%; height: auto !important; display: table;
     text-align: center; width: 100%; color: #fff;
     text-shadow: 0 1px 3px rgb(0 0 0 / 20%);
     overflow: hidden; position: relative;
