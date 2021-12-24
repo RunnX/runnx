@@ -1,6 +1,4 @@
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900|Roboto+Mono:100,400|Caveat" />
-
-![header](https://raw.githubusercontent.com/RunnX/runnx/main/img/headers/githubheader.svg)
+![header](https://runnx-gh-header.azurewebsites.net/gethead?animation=fadeIn&color=5:506be9,100:e9ce50)
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCBa5BnIBBO12iopcb3A_rmA?logo=youtube&style=for-the-badge)
 [![Twitter Follow](https://img.shields.io/twitter/follow/runnx?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frunnx&screen_name=runnx)
