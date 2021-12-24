@@ -44,7 +44,7 @@
                 <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 175Q 213.5 220 427 190T 854 200L 854 0 Z;M0 0L 0 190Q 213.5 160 427 160T 854 180L 854 0 Z;M0 0L 0 185Q 213.5 165 427 190T 854 205L 854 0 Z;M0 0L 0 175Q 213.5 220 427 190T 854 200L 854 0 Z"></animate>
             </path>
                 </g>
-                <text text-anchor="middle" font-family="Caveat" alignment-baseline="middle" x="50%" y="25%" class="text" style="text-align: center;fill:##ffffff;font-size:35">Hello, My Name Is</text><text text-anchor="middle" font-family="Caveat" alignment-baseline="middle" x="50%" y="50%" class="text" style="text-align: center;fill:#000000;font-size:80">Michael R Blevins</text><text text-anchor="middle" font-family="Caveat" alignment-baseline="middle" x="50%" y="75%" class="text" style="text-align: center;fill:#000000;font-size:35"><tspan>The </tspan><tspan style="fill:#C60C30;">Redhead</tspan><tspan> Known As </tspan><tspan style="fill:#57CAE9;">RunnX</tspan></text>
+                <image x="12.5%" y="5%" width="75%" height="75%" xlink:href="https://raw.githubusercontent.com/RunnX/runnx/main/img/headers/Hello-my-name-is-Michael-R-Blevins.png?"></image>
                  
             </svg>
         
