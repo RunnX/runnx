@@ -20,6 +20,11 @@
 
 # YouTube Activity
 <!-- YOUTUBE:START -->
+- [Accelerate XML to JSON Transformation with Node JS [xml2js] 💻🚗🔌🔋 + bloopers reel](https://www.youtube.com/watch?v=-22C8egdPVY)
+- [Terri Get Well Wishes 🎈🧸🎈 with a Special Guest well wisher ⚾⚾⚾](https://www.youtube.com/watch?v=aw3UlMll43I)
+- [📢 New Episode Coming: EE13 RFWR QH 👊](https://www.youtube.com/watch?v=naOMexKqDmU)
+- [😘My wife&#39;s reaction to Shannon Miller wishing her a Happy Birthday💕](https://www.youtube.com/watch?v=XO-u_0QDxQk)
+- [My use of technology to wish my wife a Happy Birthday!](https://www.youtube.com/watch?v=6l0WUoy670c)
 <!-- YOUTUBE:END -->
 
 
