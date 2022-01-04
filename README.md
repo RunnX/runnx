@@ -4,7 +4,7 @@
 ![my name is](https://raw.githubusercontent.com/RunnX/runnx/main/img/headers/Hello-my-name-is-light.png#gh-light-mode-only)
 
 <p align="center" width="100%">
-    <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCBa5BnIBBO12iopcb3A_rmA?logo=youtube&style=for-the-badge">
+    <a href="https://www.youtube.com/channel/UCBa5BnIBBO12iopcb3A_rmA?view_as=subscriber?sub_confirmation=1"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCBa5BnIBBO12iopcb3A_rmA?logo=youtube&style=for-the-badge"></a>
     <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frunnx&screen_name=runnx"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/runnx?color=1DA1F2&logo=twitter&style=for-the-badge"></a>
 </p>
 
