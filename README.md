@@ -22,7 +22,7 @@
 
 ### YouTube Activity
 <!-- YOUTUBE:START -->
-- [Reducing Friction #shorts 1: Azure Service Bus Queue Creation with Terraform Oh My](https://www.youtube.com/watch?v=bddMz745hpo)
+- [👨‍💻 Reducing Friction #shorts 1: Azure Service Bus Queue Creation with Terraform Oh My 💻](https://www.youtube.com/watch?v=bddMz745hpo)
 - [Accelerate XML to JSON Transformation with Node JS [xml2js] 💻🚗🔌🔋 + bloopers reel](https://www.youtube.com/watch?v=-22C8egdPVY)
 - [Terri Get Well Wishes 🎈🧸🎈 with a Special Guest well wisher ⚾⚾⚾](https://www.youtube.com/watch?v=aw3UlMll43I)
 - [📢 New Episode Coming: EE13 RFWR QH 👊](https://www.youtube.com/watch?v=naOMexKqDmU)
